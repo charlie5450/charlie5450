@@ -42,3 +42,7 @@ License
 
 - Engineer Information Processing (2022.09)
 - SQLD (2022.12)
+
+Military Service
+
+- Skilled industrial Personnel in Huno Inc(2023.11 ~ 2025.09)
