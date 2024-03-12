@@ -6,7 +6,7 @@
   <a href="mailto:wh5458@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
 </div>
 
-<br>
+<br />
 
 ## Tools
 <div align="center">
@@ -19,29 +19,31 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
 </div>
 
-<br>
+<br />
 
 ## History
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlie5450&theme=algolia" width="40%">&nbsp
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=charlie5450&theme=algolia" width="40%">&nbsp-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie5450&layout=compact" width="40%">
 </div>
 
-<br>
+<br />
 
 Graduated Ajou University (2019.03 ~ 2023.02)
 
-- Bachelor of Engineering - BE, 공군ICT
+- Bachelor of Engineering - BE, AirForce ICT
 - Activities and societies: Dev3B - Information Security Reserach
 - Approved a Graduation Paper : Collision Avoidance of UAVs in Swarm Using Multi-Cell Strategy
 
-<br>
+<br />
 
 License
 
 - Engineer Information Processing (2022.09)
 - SQLD (2022.12)
+
+<br />
 
 Military Service
 
