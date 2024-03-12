@@ -45,4 +45,4 @@ License
 
 Military Service
 
-- Skilled industrial Personnel in Huno Inc(2023.11 ~ 2025.09)
+- Skilled industrial Personnel in Huno Inc (2023.11 ~ 2025.09)
