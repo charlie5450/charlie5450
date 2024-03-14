@@ -47,4 +47,4 @@ License
 
 Military Service
 
-- Skilled industrial Personnel in Huno Inc (2023.11 ~ 2025.09 / Web-C#, ASP.NET)
+- Skilled industrial Personnel in Huno Inc (2023.11 ~ / Web-C#, ASP.NET)
