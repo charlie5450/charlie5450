@@ -34,13 +34,6 @@
 
 ## History
 
-<div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=charlie5450&theme=algolia" width="40%">&nbsp-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie5450&layout=compact" width="40%">
-</div>
-
-<br />
-
 Graduated Ajou University (2019.03 ~ 2023.02)
 
 - Bachelor of Engineering - BE, AirForce ICT
