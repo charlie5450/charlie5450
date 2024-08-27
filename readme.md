@@ -50,6 +50,6 @@ License
 
 <br />
 
-(Alternative) Military Service (2023.10 ~ 2025.09)
+(Alternative) Military Service (2023.10 ~ )
 
 - Skilled industrial Personnel in Huno Inc (Univ.Team in Dev. Department ) : Web-Solution Development and Maintenance
