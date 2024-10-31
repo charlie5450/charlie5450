@@ -34,10 +34,10 @@
 
 ## History
 
-Graduated Ajou University (2019.03 ~ 2023.02)
+Graduated Ajou University (2019.03 - 2023.02)
 
 - Bachelor of Engineering - BE, AirForce ICT
-- Activities and societies: Dev3B - Information Security Reserach
+- Activities and Societies: Dev3B - Information Security Reserach
 - Approved a Graduation Paper : Collision Avoidance of UAVs in Swarm Using Multi-Cell Strategy
 
 <br />
