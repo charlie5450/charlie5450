@@ -53,3 +53,7 @@ License
 (Alternative) Military Service (2023.10 ~ )
 
 - Skilled industrial Personnel in Huno Inc (Univ.Team in Dev. Department ) : Web-Solution Development and Maintenance
+
+## ETC
+
+<a href="https://my.flightradar24.com/Seondal"><img src="https://banners-my.flightradar24.com/Seondal.png" alt="My Flightdiary.net profile" /></a>
