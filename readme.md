@@ -91,11 +91,6 @@
 - **Role**: System Enhancement and Advancement  
 - **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  
 
-#### **Yeonsung University CarryGem Career Development System Advancement (Bug Fixing)**  
-📅 **August 14, 2024 - October 16, 2024**  
-- **Role**: Bug Fixes and System Enhancement  
-- **Live System**: [carry.yeonsung.ac.kr](https://carry.yeonsung.ac.kr)  
-
 #### **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**  
 📅 **November 8, 2024 - November 22, 2024**  
 - **Scope**: General  
