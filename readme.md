@@ -57,7 +57,7 @@
 **Hanmin Academy** (2015.03 - 2018.02)  
 - **Club** : WHET(Walking Hanmin Eco Team, Botanic Department) / 2015.03 - 2017.02
   - Operated a booth at the Korea Creative Science Festival (in KINTEX, 2015.08)
-  - Collected/Classified plants from the Ecosystem around the school, and Removed EcoSystem-Disrupting plants.
+  - Collected/Classified plants from the Ecosystem around the school, and Removed EcoSystem-Disrupting plants
   
 ---
 
