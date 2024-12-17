@@ -69,30 +69,41 @@
 
 ---
 
-## 🏢 Professional Experience  
+## 🏢 **Professional Experience**  
 
-**Alternative Military Service**  
-- **Huno Inc.** (2023.10 - Present)  
-  - Skilled Industrial Personnel (Univ. Team, Dev. Department)  
-  - *Web-Solution Development and Maintenance*  
+### **Alternative Military Service**  
+- **Huno Inc.** *(October 2023 - Present)*  
+  - **Position**: Skilled Industrial Personnel (Univ. Team, Dev. Department)  
+  - **Role**: *Web-Solution Development and Maintenance*  
 
-**Kyungmin University LiFE Project System Development (June 17, 2024 - November 30, 2024)**
+---
 
-  -  Scope: Administrator / General User
-  -  Administrator Features: Survey Management, Site Management Menu Development
-  -  General User Features: Adult Learning Support Center, Community Menu Development
-  -  Live System: https://life.kyungmin.ac.kr
+### **Web-Solution Development and Maintenance**  
+#### **Kyungmin University LiFE Project System Development**  
+📅 **June 17, 2024 - November 30, 2024**  
+- **Scope**: Administrator / General User  
+  - **Administrator Features**: Survey Management, Site Management Menu Development  
+  - **General User Features**: Adult Learning Support Center, Community Menu Development  
+- **Live System**: [life.kyungmin.ac.kr](https://life.kyungmin.ac.kr)  
 
-**Paichai University Nasum-Historyfolio Advancement (July 9, 2024 - September 19, 2024)**<br/>
-**Yeonsung University CarryGem Career Development System Advancement (Bug Fixing) (August 14, 2024 - October 16, 2024)**<br/>
-**Kaywon University of Art & Design KCDP Student Competency Development System Advancement (November 8, 2024 - November 22, 2024)**<br/>
+#### **Paichai University Nasum-Historyfolio Advancement**  
+📅 **July 9, 2024 - September 19, 2024**  
+- **Role**: System Enhancement and Advancement  
+- **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  
 
--  Scope: General
--  University Job Plus Center: Regional Youth System Development
--  Live Systems:
-https://nasum.pcu.ac.kr/
-https://carry.yeonsung.ac.kr/
-https://kcdp.kaywon.ac.kr/
+#### **Yeonsung University CarryGem Career Development System Advancement (Bug Fixing)**  
+📅 **August 14, 2024 - October 16, 2024**  
+- **Role**: Bug Fixes and System Enhancement  
+- **Live System**: [carry.yeonsung.ac.kr](https://carry.yeonsung.ac.kr)  
+
+#### **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**  
+📅 **November 8, 2024 - November 22, 2024**  
+- **Scope**: General  
+  - **University Job Plus Center**: Regional Youth System Development  
+- **Live System**: [kcdp.kaywon.ac.kr](https://kcdp.kaywon.ac.kr)  
+
+---
+
 ---
 
 
