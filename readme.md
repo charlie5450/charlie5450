@@ -56,8 +56,8 @@
 
 **Hanmin Academy** (2015.03 - 2018.02)  
 - **Club** : WHET(Walking Hanmin Eco Team, Botanic Department) / 2015.03 - 2017.02
-  - Operated a booth at the Korea Creative Science Festival (in KINTEX, 2015.08)
-  - Collected/Classified plants from the Ecosystem around the school, and Removed EcoSystem-Disrupting plants
+  -  Operated a booth at the Korea Creative Science Festival (KINTEX, August 2015).
+  -  Collected and classified plants from the ecosystem around the school, and removed ecosystem-disrupting plants.
   
 ---
 
@@ -76,7 +76,26 @@
   - Skilled Industrial Personnel (Univ. Team, Dev. Department)  
   - *Web-Solution Development and Maintenance*  
 
+**Kyungmin University LiFE Project System Development (June 17, 2024 - November 30, 2024)**
+
+  -  Scope: Administrator / General User
+  -  Administrator Features: Survey Management, Site Management Menu Development
+  -  General User Features: Adult Learning Support Center, Community Menu Development
+  -  Live System: https://life.kyungmin.ac.kr
+
+**Paichai University Nasum-Historyfolio Advancement (July 9, 2024 - September 19, 2024)**<br/>
+**Yeonsung University CarryGem Career Development System Advancement (Bug Fixing) (August 14, 2024 - October 16, 2024)**<br/>
+**Kaywon University of Art & Design KCDP Student Competency Development System Advancement (November 8, 2024 - November 22, 2024)**<br/>
+
+-  Scope: General
+-  University Job Plus Center: Regional Youth System Development
+-  Live Systems:
+https://nasum.pcu.ac.kr/
+https://carry.yeonsung.ac.kr/
+https://kcdp.kaywon.ac.kr/
 ---
+
+
 
 ## ✈️ ETC  
 
