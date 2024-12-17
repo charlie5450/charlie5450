@@ -67,7 +67,7 @@
 ## 🏢 Professional Experience  
 
 **Alternative Military Service**  
-- **Huno Inc.** (2023.10 ~ Present)  
+- **Huno Inc.** (2023.10 - Present)  
   - Skilled Industrial Personnel (Univ. Team, Dev. Department)  
   - *Web-Solution Development and Maintenance*  
 
