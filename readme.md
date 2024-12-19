@@ -88,7 +88,8 @@
 
 #### **Paichai University Nasum-Historyfolio Advancement**  
 📅 **July 9, 2024 - September 19, 2024**  
-- **Role**: System Enhancement and Advancement  
+- **Scope**: General  
+  - **University Job Plus Center**: Regional Youth System Development  
 - **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  
 
 #### **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**  
@@ -96,8 +97,6 @@
 - **Scope**: General  
   - **University Job Plus Center**: Regional Youth System Development  
 - **Live System**: [kcdp.kaywon.ac.kr](https://kcdp.kaywon.ac.kr)  
-
----
 
 ---
 
