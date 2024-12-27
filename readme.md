@@ -65,7 +65,8 @@
 
 - **Engineer Information Processing** (2022.09)  
 - **SQL Developer (SQLD)** (2022.12)  
-- **Information and Communication Technician - Beginner Level** (2024.03)  
+- **Information and Communication Technician - Beginner Level** (2024.03)
+- **OPIc - IH(Intermediate High)** (2024.12)  
 
 ---
 
