@@ -75,7 +75,7 @@
 ### **Alternative Military Service**  
 - **Huno Inc.** *(October 2023 - Present)*  
   - **Position**: Skilled Industrial Personnel (Univ. Team, Dev. Department)  
-  - **Role**: *Web-Solution Development and Maintenance*  
+  - **Role**: *Web-Solution Development and Maintenance(BackEnd & FrontEnd - ASP.NET Web Forms)*  
 
 ---
 
@@ -87,11 +87,11 @@
   - **General User Features**: Adult Learning Support Center, Community Menu Development  
 - **Live System**: [life.kyungmin.ac.kr](https://life.kyungmin.ac.kr)  
 
-#### **Paichai University Nasum-Historyfolio Advancement**  
-#### **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**  
+#### **Paichai University Nasum-Historyfolio Advancement**<br> **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**
+
 📅 **July 9, 2024 - September 19, 2024**  
 📅 **November 8, 2024 - November 22, 2024**  
-- **Scope**: General  
+- **Scope**: General User
   - **University Job Plus Center**: Regional Youth System Development  
 - **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  / [kcdp.kaywon.ac.kr](https://kcdp.kaywon.ac.kr)  
 
