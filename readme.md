@@ -80,6 +80,12 @@
 ---
 
 ### **Web-Solution Development and Maintenance**  
+
+#### **Kyungmin University KONG.U Industry-Academia Collaboration System Development**  
+📅 **March 28, 2024 - February 28, 2025**  
+- **Scope**: Administrator / Biz Accounts  
+  - **Features**: Development of Management Menus for Global-Centered Education, Technical Guidance & Consultation, Faculty Competency Enhancement, Performance Exhibitions & Dissemination Forums  
+
 #### **Kyungmin University LiFE Project System Development**  
 📅 **June 17, 2024 - November 30, 2024**  
 - **Scope**: Administrator / General User  
@@ -88,16 +94,23 @@
 - **Live System**: [life.kyungmin.ac.kr](https://life.kyungmin.ac.kr)  
 
 #### **Paichai University Nasum-Historyfolio Advancement**<br> **Kaywon University of Art & Design KCDP Student Competency Development System Advancement**
-
 📅 **July 9, 2024 - September 19, 2024**  
 📅 **November 8, 2024 - November 22, 2024**  
 - **Scope**: General User
   - **University Job Plus Center**: Regional Youth System Development  
 - **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  / [kcdp.kaywon.ac.kr](https://kcdp.kaywon.ac.kr)  
 
+#### **Kyungnam Provincial Geochang College Learning Outcome Management System Development**  
+📅 **November 29, 2024 - February 18, 2025**  
+- **Scope**: Students (Nursing) / Administrator  
+  - **Features**: Course-PO-Core Nursing Skills Matching Menu Development, Performance Management & Automatic Calculation Logic for Status/Statistics/Reports  
+
+#### **Pyeongtaek University Ace Pass New System Development**  
+📅 **January 14, 2025 - February 28, 2025**  
+- **Scope**: Students / Professors / Administrator
+  - **Features**: New Student Career Management Service Development
+- **Live System**: [ace.ptu.ac.kr](https://ace.ptu.ac.kr)  
 ---
-
-
 
 ## ✈️ ETC  
 
