@@ -100,7 +100,7 @@
   - **University Job Plus Center**: Regional Youth System Development  
 - **Live System**: [nasum.pcu.ac.kr](https://nasum.pcu.ac.kr)  / [kcdp.kaywon.ac.kr](https://kcdp.kaywon.ac.kr)  
 
-#### **Kyungnam Provincial Geochang College Learning Outcome Management System Development**  
+#### **University of Gyeongnam Geochang Learning Outcome Management System Development**  
 📅 **November 29, 2024 - February 18, 2025**  
 - **Scope**: Students (Nursing) / Administrator  
   - **Features**: Course-PO-Core Nursing Skills Matching Menu Development, Performance Management & Automatic Calculation Logic for Status/Statistics/Reports  
