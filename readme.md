@@ -84,7 +84,8 @@
 #### **Kyungmin University KONG.U Industry-Academia Collaboration System Development**  
 📅 **March 28, 2024 - February 28, 2025**  
 - **Scope**: Administrator / Biz Accounts  
-  - **Features**: Development of Management Menus for Global-Centered Education, Technical Guidance & Consultation, Faculty Competency Enhancement, Performance Exhibitions & Dissemination Forums  
+  - **Features**: Development of Management Menus for Global-Centered Education, Technical Guidance & Consultation, Faculty Competency Enhancement, Performance Exhibitions & Dissemination Forums
+  - **Live System**: [kongu.kyungmin.ac.kr](https://kongu.kyungmin.ac.kr)  
 
 #### **Kyungmin University LiFE Project System Development**  
 📅 **June 17, 2024 - November 30, 2024**  
