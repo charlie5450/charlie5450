@@ -112,6 +112,22 @@
   - **Features**: New Student Career Management Service Development
 - **Live System**: [ace.ptu.ac.kr](https://ace.ptu.ac.kr)  
 ---
+## 🔐 Web Security Work Summary
+
+- Applied Google reCAPTCHA and **Cloudflare** to block web attacks.  
+- Performed annual **security audits** and **personal data protection**, with continuous improvements.  
+- Handled 403/404/500 and DB errors using custom error pages and hid debug/system messages.  
+- Removed vulnerable JS file (`pace.min.js`).  
+- Changed sensitive **SSO URL parameters** from GET to POST and blocked external access.  
+- Disabled `TRACE` and `OPTIONS` methods via `web.config`.  
+- Encrypted key URL parameters and enforced detailed **role-based access control**.  
+- Stored sensitive DB identifiers in encrypted form and applied decryption logic when needed.
+
+---
+
+> ⚠️ These actions were applied in live systems and are maintained regularly for improved security.
+
+
 
 ## ✈️ ETC  
 
