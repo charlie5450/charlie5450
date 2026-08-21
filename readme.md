@@ -65,7 +65,7 @@ A pragmatic Full-Stack Web Developer specializing in enterprise web solutions, s
 - **Service**: Successfully completed full term as Information Processing Technical Personnel *(Nov 2023 - Sep 2025)*  
 
 #### 🔥 Core Engineering & Architectural Migrations
-- **Legacy Porting (C# ➔ Java Spring) | July 2026 - Present**
+- **Legacy Porting (C# ➔ Java Spring) | July 2026 - August 2026**
   - Leading the migration of the core enterprise community system, moving backend architectures from legacy C# `.aspx` environments over to **Java Spring Framework**.
 - **Server Infrastructure Reconstruction (Daegu Health College) | Sep 2024 - Oct 2024**
   - Managed migration of an aging university platform over to a newly built **Windows Server 2019 / IIS / Oracle** environment, achieving seamless database integration and system stability.
