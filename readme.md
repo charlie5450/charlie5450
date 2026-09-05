@@ -58,7 +58,8 @@ A pragmatic Full-Stack Web Developer specializing in enterprise web solutions, s
 
 ## 🏢 Professional Experience  
 ### **Incheon Airport Facilities Corporation** *(September 2026 - )*  
-- **Position**: Software Engineer (Information Systems Division)
+- **Position**: Software Developer
+- Managed the operation and maintenance of IIAC's Integrated Information System (IIS) to ensure system reliability and seamless performance
 
 ### **Huno Inc.** *(October 2023 - August 2026)*  
 - **Position**: Software Engineer (University Solutions Team, Development Dept.)  
